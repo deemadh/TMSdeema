@@ -2049,3 +2049,6 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: only whites
 	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
 	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109)
 	... 26 more
+
+!ENTRY org.eclipse.wst.server.core 4 0 2020-05-08 20:53:37.566
+!MESSAGE Server Tomcat v9.0 Server at localhost was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.
